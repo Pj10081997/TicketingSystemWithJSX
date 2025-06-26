@@ -1,0 +1,30 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\GSISUPPORT\Documents\NetBeansProjects\ticketing-system\GSIApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\GSISUPPORT\Documents\NetBeansProjects\ticketing-system\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.021.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\GSISUPPORT\AppData\Local\Microsoft\WindowsApps;C:\Users\GSISUPPORT\AppData\Local\Microsoft\WinGet\Packages\jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\Program Files\Java\jdk-24\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\GSISUPPORT\AppData\Local\Microsoft\WindowsApps;C:\Users\GSISUPPORT\AppData\Local\Microsoft\WinGet\Packages\jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\Program Files\Java\jdk-24\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GSISUPPORT\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\GSISUPPORT\AppData\Local\Microsoft\WinGet\Packages\jqlang.jq_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-24\bin\javac.exe (OK)
+Version string: 1.024.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe
+Launcher args:	-jar "C:\Users\GSISUPPORT\Documents\NetBeansProjects\ticketing-system\GSIApp.exe"
+Args length:	81/32768 chars
+Exit code:	0
